@@ -1,4 +1,4 @@
-# 基于物理仿真与生成式对抗网络的杰克逊·波洛克滴画艺术分析与生成
+# PollockArt:基于物理流体仿真与生成式对抗网络的杰克逊·波洛克滴画艺术分析与生成
 
 ---
 
@@ -406,7 +406,7 @@ train_gan(dataloader, generator, discriminator, g_optimizer, d_optimizer, criter
 
 **注**：本项目的代码和文档已上传至 GitHub，地址为：
 
-[https://github.com/YourUsername/PollockArtSimulation](https://github.com/YourUsername/PollockArtSimulation)
+[[https://github.com/JLU-Wangxu/PollockArt(https://github.com/JLU-WangXu/PollockArt)]
 
 请前往查看完整的代码实现和更详细的说明。
 
